@@ -1,56 +1,56 @@
 [
   {
     "full_name": "GoogleChrome/lighthouse",
-    "stargazers_count": 23409,
+    "stargazers_count": 23432,
     "open_issues_count": 572,
-    "forks_count": 8120
+    "forks_count": 8132
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 13170,
+    "stargazers_count": 13220,
     "open_issues_count": 92,
-    "forks_count": 589
+    "forks_count": 591
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 489,
-    "open_issues_count": 31,
+    "stargazers_count": 490,
+    "open_issues_count": 34,
     "forks_count": 140
   },
   {
     "full_name": "Serial-Studio/Serial-Studio",
-    "stargazers_count": 1887,
-    "open_issues_count": 17,
-    "forks_count": 218
+    "stargazers_count": 1888,
+    "open_issues_count": 16,
+    "forks_count": 219
   },
   {
     "full_name": "oppia/oppia",
-    "stargazers_count": 4270,
+    "stargazers_count": 4275,
     "open_issues_count": 1161,
-    "forks_count": 1953
+    "forks_count": 1955
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 13056,
-    "open_issues_count": 363,
-    "forks_count": 1605
+    "stargazers_count": 13083,
+    "open_issues_count": 354,
+    "forks_count": 1614
   },
   {
     "full_name": "jupyterlab/jupyterlab",
-    "stargazers_count": 11398,
-    "open_issues_count": 1947,
+    "stargazers_count": 11410,
+    "open_issues_count": 1956,
     "forks_count": 2095
   },
   {
     "full_name": "withspectrum/spectrum",
-    "stargazers_count": 10104,
+    "stargazers_count": 10108,
     "open_issues_count": 265,
-    "forks_count": 1152
+    "forks_count": 1151
   },
   {
     "full_name": "gitcoinco/web",
-    "stargazers_count": 1279,
-    "open_issues_count": 409,
+    "stargazers_count": 1281,
+    "open_issues_count": 414,
     "forks_count": 695
   }
 ]
